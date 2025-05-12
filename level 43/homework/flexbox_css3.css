@@ -1,0 +1,24 @@
+#tetris{
+    display: flex;
+    justify-content: space-around;
+}
+#D{
+    border-radius: 20px;
+    background-color: chocolate;
+    color: black;
+}
+#A{
+    border-radius: 20px;
+    background-color: darkcyan;
+    color: hotpink;
+}
+#C{
+    border-radius: 20px;
+    background-color: darkgrey;
+    color: white;
+}
+#B{
+    border-radius: 20px;
+    background-color: darkgreen;
+    color: darkred;
+}

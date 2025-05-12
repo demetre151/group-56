@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 100%;
+
+}
+
+#div1 {
+
+    height: 400px;
+    width: 400px;
+    background-color: black;
+}
+
+#div1:hover {
+    animation-name: bg-color-change;
+    animation-duration: 20s;
+}
+
+/* @keyframes bg-color-change {
+
+
+    0% {
+        background-color: skyblue;
+
+
+        25% {
+            background-color: blue;
+            transform: rotate(45deg);
+
+        }
+
+         50% {
+            background-color: green;
+            transform: rotate(90deg);
+
+        }
+
+        75% {
+            background-color: purple;
+            transform: rotate(135deg);
+        }
+
+        100% {
+            background-color: red;
+            transform: rotate(180deg);
+
+        }
+
+
+
+
+    } */

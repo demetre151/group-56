@@ -1,0 +1,23 @@
+#gg{
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+#car{
+    width: 400px;
+}
+#gg2{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#car2{
+    width: 400px;
+}
+#demetre{
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+    color: white;
+}
